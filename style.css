@@ -119,7 +119,7 @@ nav a:hover {
   display: inline;
   gap: 20px;/*gap é o espaço entre elementos semelhante a margin*/
   transition: all 1s ease ;
-  
+  cursor: pointer;
 }
 #filmes img:hover{
   scale:200%;
