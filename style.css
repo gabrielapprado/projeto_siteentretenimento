@@ -118,6 +118,7 @@ nav a:hover {
   margin-left: 200px; 
   display: inline;
   gap: 20px;/*gap é o espaço entre elementos semelhante a margin*/
+  transition: all 1s ease ;
   
 }
 #filmes img:hover{
